@@ -1,0 +1,11 @@
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\bin\Debug\net6.0\PantryPal.Shared.deps.json
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\bin\Debug\net6.0\PantryPal.Shared.dll
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\bin\Debug\net6.0\PantryPal.Shared.pdb
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\obj\Debug\net6.0\PantryPal.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\obj\Debug\net6.0\PantryPal.Shared.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\obj\Debug\net6.0\PantryPal.Shared.AssemblyInfo.cs
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\obj\Debug\net6.0\PantryPal.Shared.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\obj\Debug\net6.0\PantryPal.Shared.dll
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\obj\Debug\net6.0\refint\PantryPal.Shared.dll
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\obj\Debug\net6.0\PantryPal.Shared.pdb
+C:\Users\david\source\repos\PantryPal\PantryPal\Shared\obj\Debug\net6.0\ref\PantryPal.Shared.dll
