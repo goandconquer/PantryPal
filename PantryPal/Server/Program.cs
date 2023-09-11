@@ -1,6 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using PantryPal.Server.Data;
 using Microsoft.AspNetCore.ResponseCompression;
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("PantryPalDatabase");
+
+builder.Services.AddDbContext<PantryPalContext>(options => options.UseSqlServer(connectionString));
 
 // Add services to the container.
 
